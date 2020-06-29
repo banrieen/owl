@@ -5,6 +5,7 @@
 状态看板
 报告预览,log 分享
 
+**做个微信小程序**
 
 原型参考： [OWL看板-猫头鹰](https://free.modao.cc/app/761bb6d0970f57c12d19b2300b463b9872aff409#screen=s665392f3e8d9ac7f730fb5)
 
